@@ -1,1 +1,5 @@
-# test
+# Criar Repo no GH
+# Armazenar arquivos nesse repo
+# Download do repo
+# Adicionar repo remoto
+# Subir alteração no repositorio
